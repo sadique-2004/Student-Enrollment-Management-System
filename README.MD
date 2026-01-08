@@ -146,3 +146,18 @@ The goal is to build a strong foundation before moving to advanced frameworks li
 
 This project is designed as a learning-first mini project, not a production-grade system.
 Feedback and suggestions are always welcome.
+
+
+
+# 6 Steps for JDBC
+
+### 1st import the packages
+### 2nd Load the driver
+### 3rd Register the Driver
+### 4th Create Connection
+### 5th Create Statement
+### 6th Execute Statement
+### 7th Close
+
+
+Then you will get the responce
